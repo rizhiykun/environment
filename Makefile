@@ -10,4 +10,3 @@ init_folder:
 	mkdir -p ./data/psql/data
 	mkdir -p ./data/psql/db
 	mkdir -p ./data/redis/data
-	mkdir -p ./test-app
