@@ -31,7 +31,7 @@ services:
 
   postgres:
     container_name: postgres
-    image: postgres:15.12
+    image: postgres:13
     hostname: postgres
     init: true
     ports:
