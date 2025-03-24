@@ -7,7 +7,7 @@
 Download repository
 
 ```
-git clone https://gitlab.com/rizhiykun1/environment.git
+git clone https://github.com:rizhiykun/environment.git
 ```
 
 ## Init project
@@ -16,7 +16,7 @@ Make sure that you already install "make"
 ```
 cd environment
 make init_folder
-git clone https://gitlab.com/rizhiykun1/test.git
+git clone https://github.com:rizhiykun/rickandmorty.git
 ```
 
 ## Configure Hosts
