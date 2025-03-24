@@ -33,7 +33,7 @@ Just add this -
 
 ```
 make up
-cd test
+cd rickandmorty
 make build
 ```
 
