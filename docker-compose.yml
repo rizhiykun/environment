@@ -108,10 +108,10 @@ services:
     restart: always
     
   symfony:
-    build: ./test
+    build: ./rickandmorty
     container_name: symfony
     volumes:
-      - ./test:/var/www
+      - ./rickandmorty:/var/www
       - ./.env:/var/www/app/.env
     expose:
       - "9000"
