@@ -1,6 +1,6 @@
 # environment
 
-
+Little RESTapp for simple sentiment analysis of Ricke and Morty review
 
 ## Getting started
 
