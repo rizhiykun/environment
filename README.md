@@ -45,3 +45,9 @@ make psalm
 make run_unit_test
 ```
 
+## Swagger
+
+```
+http://symfony.local/api/doc
+```
+
